@@ -1,10 +1,11 @@
 ### ¡Hola, soy Loreto! 👋
-Estudiante de segundo año en Desarrollo de Aplicaciones Web (DAW) <b>en búsqueda de una empresa donde realizar mis prácticas. </b><br>
+Estudiante de segundo año en Desarrollo de Aplicaciones Web (DAW). <br>
+<b>En búsqueda de una empresa donde realizar mis prácticas. </b><br>
 
-Durante mi formación, he adquirido habilidades sólidas en diversos lenguajes de programación y, para ampliar aún más mis conocimientos, he realizado diversos cursos externos.<br><br>
+<!--Durante mi formación, he adquirido habilidades sólidas en diversos lenguajes de programación y, para ampliar aún más mis conocimientos, he realizado diversos cursos externos.<br><br>
+-->
 
-
-Me he enfocado en comprender los fundamentos de los lenguajes y ahora estoy entusiasmada por aprender frameworks populares como React, Angular, Vue...
+Durante mi formación; me he enfocado en comprender los fundamentos de los lenguajes sin utilizar frameworks y ahora estoy entusiasmada por aprender alguno de los más populares como React, Angular, Vue...
 <br>
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loreto-garde) 
