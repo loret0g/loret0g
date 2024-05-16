@@ -1,5 +1,5 @@
 ### ¡Hola, soy Loreto! 👋
-Estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW) <b>en búsqueda de una empresa donde realizar mis prácticas. </b><br>
+Estudiante de segundo año en Desarrollo de Aplicaciones Web (DAW) <b>en búsqueda de una empresa donde realizar mis prácticas. </b><br>
 
 Durante mi formación, he adquirido habilidades sólidas en diversos lenguajes de programación y, para ampliar aún más mis conocimientos, he realizado diversos cursos externos.<br><br>
 
@@ -13,7 +13,7 @@ Me he enfocado en comprender los fundamentos de los lenguajes y ahora estoy entu
 ---
 [![](https://visitcount.itsvg.in/api?id=loret0g&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
 **loret0g/loret0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
