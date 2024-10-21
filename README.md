@@ -1,11 +1,8 @@
 ## ¡Hola, soy Loreto! 👋
 
-🎓 Estudiante de segundo año en Desarrollo de Aplicaciones Web (DAW).
+🎓 Estudiante de segundo año en Desarrollo de Aplicaciones Web (DAW) y finalizando un bootcamp intensivo en desarrollo Full Stack con Ironhack.
 
-🔍 En búsqueda de una empresa para realizar mis prácticas (FCT) y crecer como desarrolladora web.
-
-🌟 Durante mi formación profesional, he explorado diversos lenguajes de programación, destacándome en JavaScript, donde he profundizado en sus principios fundamentales sin depender de frameworks. 
-Estoy entusiasmada por ampliar mis habilidades con tecnologías populares como React, Angular y/o Vue.
+🌟 Durante mi formación profesional he explorado diversos lenguajes de programación, con un enfoque especial en JavaScript, donde he profundizado tanto en sus fundamentos como en el uso de tecnologías modernas como React, Node.js, Express.js y MongoDB, además de HTML y CSS.
 
 💼 Abierta a explorar nuevas tecnologías y oportunidades que me permitan seguir creciendo como profesional en el campo del desarrollo web.
 
