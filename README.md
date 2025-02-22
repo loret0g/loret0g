@@ -1,10 +1,13 @@
-## ¡Hola, soy Loreto! 👋
+# ¡Hola, soy Loreto! 👋  
 
-🎓 Finalizando mis estudios de FP en Desarrollo de Aplicaciones Web (DAW) mientras realizo prácticas como desarrolladora, utilizando BMC Remedy para la gestión de flujos de trabajo.
+🌟 **Desarrolladora Full Stack** con formación en **Desarrollo de Aplicaciones Web (DAW)** y un **bootcamp intensivo en Full Stack Web Developer** con Ironhack.  
 
-🌟 Durante mi formación profesional he explorado diversos lenguajes de programación, con un enfoque especial en JavaScript, donde he profundizado tanto en sus fundamentos como en el uso de tecnologías modernas como React, Node.js, Express.js y MongoDB.
+🎓 Durante mi formación, he explorado diversos lenguajes de programación, con un **enfoque especial en JavaScript**, profundizando tanto en sus **fundamentos** como en el uso de **tecnologías modernas** como **React, Node.js, Express.js y MongoDB**.  
 
-💼 Abierta a explorar nuevas tecnologías y oportunidades que me permitan seguir creciendo como profesional en el campo del desarrollo web.
+💻 He trabajado en **proyectos completos**, abordando tanto el **frontend** (interfaces de usuario) como el **backend** (APIs y bases de datos).  
+
+🚀 Me apasiona **explorar nuevas tecnologías** y **afrontar nuevos retos** que me permitan seguir creciendo como desarrolladora.  
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loreto-garde) 
 
